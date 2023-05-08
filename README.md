@@ -14,8 +14,8 @@ Welcome to my page!
 - Kotlin
 
 <p>
-    <img alt="Java"
-         src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white"/>
+    <img alt="html5"
+         src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="Kotlin"
          src="https://img.shields.io/badge/-Kotlin-45b8d8?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img alt="Docker"
@@ -50,8 +50,7 @@ Welcome to my page!
          src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img alt="npm"
          src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-    <img alt="html5"
-         src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
     <img alt="Brave browser"
          src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white"/>
     <img alt="Rollup"
