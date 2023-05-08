@@ -21,7 +21,7 @@ Welcome to my page!
     <img alt="javascript"
          src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img alt="python"
-         src="https://img.shields.io/badge/-Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+         src="https://img.shields.io/badge/-Python-#3776AB?style=flat-square&?logo=data:python&logoColor=white"/>
     <img alt="python"
          src="https://img.shields.io/badge/-Python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img alt="javascript"
