@@ -17,9 +17,9 @@ Welcome to my page!
     <img alt="html5"
          src="https://img.shields.io/badge/-HTML5-lightgrey?style=flat-square&logo=html5&logoColor=E34F26"/>
     <img alt="css3"
-         src="https://img.shields.io/badge/-CSS3-lightgrey?style=flat-square&logo=CSS3&logoColor=white"/>
+         src="https://img.shields.io/badge/-CSS3-lightgrey?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
     <img alt="javascript"
-         src="https://img.shields.io/badge/-JavaScript-lightgrey?style=flat-square&logo=JavaScript&logoColor=white"/>
+         src="https://img.shields.io/badge/-JavaScript-lightgrey?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
 </p>
 
 ### 💬Contact Me
