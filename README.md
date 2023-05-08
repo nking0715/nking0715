@@ -8,8 +8,8 @@ Welcome to my page!
 
 - JavaScript
 - Python
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Go
 - Kotlin
 
@@ -22,10 +22,10 @@ Welcome to my page!
          src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img alt="python"
          src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img alt="python"
-         src="https://img.shields.io/badge/-Python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img alt="javascript"
-         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img alt="go"
+         src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+    <img alt="kotlin"
+         src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img alt="html5"
          src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="css3"
