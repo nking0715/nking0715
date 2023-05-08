@@ -15,7 +15,7 @@ Welcome to my page!
 
 <p>
     <img alt="html5"
-         src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+         src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26"/>
     <img alt="css3"
          src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img alt="javascript"
