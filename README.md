@@ -1,19 +1,17 @@
 ## Hi there 👋
 
-Welcome to my page! 
-
-In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/plexpt
+Welcome to my page!
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-## 🔭I’m currently code with
+## 🔭I’m currently coding with
 
-- Java
-- Kotlin
 - JavaScript
-- Go
 - Python
-- Shell
+- HTML
+- CSS
+- Go
+- Kotlin
 
 <p>
     <img alt="Java"
@@ -70,15 +68,13 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 
 ### 💬Contact Me
 
-- Gmail: plexpt@gmail.com
+- Gmail: talentedblu@gmail.com
 
 ### 🌱 I’m currently learning
 
 - Spring Cloud
 - Flink
 - hadoop
-- nosql
-- mongodb
 - android
 - postgresql
 - freemarker
@@ -86,5 +82,5 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 
 ![plex's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackFury&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/plexpt)
