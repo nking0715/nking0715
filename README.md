@@ -82,5 +82,5 @@ Welcome to my page!
 
 ![plex's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackFury&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackFury&layout=compact)](https://github.com/FullStackFury)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/plexpt)
