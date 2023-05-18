@@ -60,5 +60,5 @@ Welcome to my page!
 - freemarker
 - netty
 
-![FullStackFury's github stats](https://github-readme-stats.vercel.app/api?username=FullStackFury&show_icons=true&count_private=true&theme=vue-dark)
+![Current stats](https://github-readme-stats.vercel.app/api?username=FullStackFury&show_icons=true&count_private=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackFury&theme=vue-dark)](https://github.com/FullStackFury)
