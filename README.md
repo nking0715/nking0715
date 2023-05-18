@@ -32,6 +32,18 @@ Welcome to my page!
          src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img alt="node.js"
          src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img alt="typescript"
+         src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img alt="mongodb"
+         src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+    <img alt="React"
+         src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img alt="Vue.js"
+         src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img alt="angular"
+         src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
+    <img alt="next.js"
+         src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
 ### 💬Contact Me
@@ -49,5 +61,4 @@ Welcome to my page!
 - netty
 
 ![FullStackFury's github stats](https://github-readme-stats.vercel.app/api?username=FullStackFury&show_icons=true&count_private=true&theme=vue-dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackFury&theme=vue-dark)](https://github.com/FullStackFury)
