@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my page!
-<img src="https://readme-typing-svg.herokuapp.com/?lines=FullStackFury;Full-Stakc%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=TalentedBlu123;Full-Stakc%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 > Programming languages.
@@ -112,5 +112,5 @@ Welcome to my page!
 - freemarker
 - netty
 
-![Current stats](https://github-readme-stats.vercel.app/api?username=FullStackFury&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackFury&theme=vue-dark)](https://github.com/FullStackFury)
+![Current stats](https://github-readme-stats.vercel.app/api?username=TalentedBlu123&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalentedBlu123&theme=vue-dark)](https://github.com/TalentedBlu123)
