@@ -20,13 +20,14 @@ Welcome to my page!
 > Frameworks and libraries.
 
 <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-ffffff.svg?logo=nextdotjs&logoColor=%23000000"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Next-303030.svg?logo=redux&logoColor=%23764ABC"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-ffffff.svg?logo=nextdotjs&logoColor=%23000000"></a>
 </p>
 
 > Databases and cloud hosting.
