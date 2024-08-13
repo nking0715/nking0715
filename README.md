@@ -50,4 +50,4 @@ Welcome to my page!
 </p>
 
 ![Current stats](https://github-readme-stats.vercel.app/api?username=Nick&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick&theme=vue-dark)](https://github.com/nking0715)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick&theme=vue-dark)
