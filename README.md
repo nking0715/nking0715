@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my page!
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Nicholas%20King;React%20Developer;AWS%20enthusiast;110%2B%20years%20of%20rich%20experience&font=Grey_Qo&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Nicholas%20King;React%20Developer;AWS%20enthusiast;10%2B%20years%20of%20rich%20experience&font=Grey_Qo&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 > Programming languages.
