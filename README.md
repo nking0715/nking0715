@@ -49,15 +49,5 @@ Welcome to my page!
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
-### 🌱 I’m currently learning
-
-- Spring Cloud
-- Flink
-- hadoop
-- android
-- postgresql
-- freemarker
-- netty
-
 ![Current stats](https://github-readme-stats.vercel.app/api?username=TalentedBlu123&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalentedBlu123&theme=vue-dark)](https://github.com/TalentedBlu123)
