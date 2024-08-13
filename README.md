@@ -35,10 +35,10 @@ Welcome to my page!
 > Databases and cloud hosting.
 
 <p>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-FAF3E0.svg?logo=postgresql&logoColor=%234169E1"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-DFF7DF.svg?logo=mongodb&logoColor=%2347A248"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-F4E3D7.svg?logo=mysql&logoColor=%234479A1"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-D3D3D3.svg?logo=vercel&logoColor=%23000000"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-E0F7FA.svg?logo=amazonwebservices&logoColor=232F3E"></a>
 </p>
 
