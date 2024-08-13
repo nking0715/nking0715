@@ -26,7 +26,7 @@ Welcome to my page!
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232a.svg?logo=nextdotjs&logoColor=%23000000"></a>
+    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-ffffff.svg?logo=nextdotjs&logoColor=%23000000"></a>
 </p>
 
 > Databases and cloud hosting.
