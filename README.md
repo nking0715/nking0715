@@ -22,7 +22,8 @@ Welcome to my page!
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-ffffff.svg?logo=nextdotjs&logoColor=%23000000"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Next-303030.svg?logo=redux&logoColor=%23764ABC"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-F5F5F5.svg?logo=redux&logoColor=%23CA4245"></a>
+    <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-FAF3E0.svg?logo=reactrouter&logoColor=%23764ABC"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
